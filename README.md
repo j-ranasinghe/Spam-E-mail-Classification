@@ -20,7 +20,7 @@ The code in this repository was written and tested using Python 3.9.16.
 The dataset used in this project is the [UCI Machine learning repository - Spambase dataset](https://archive.ics.uci.edu/ml/datasets/Spambase). The last column of 'spambase.data' denotes whether the e-mail was considered spam (1) or not (0). Most of the attributes indicate whether a particular word or character was frequently occuring in the e-mail.
 
 ---
-## Remarks
+## Key Features
 
 ### PCA
 
