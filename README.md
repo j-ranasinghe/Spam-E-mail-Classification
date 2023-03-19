@@ -5,7 +5,7 @@
 [![Decision Tree](https://img.shields.io/badge/Decision%20Tree-Classifier-green)](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 [![PCA](https://img.shields.io/badge/PCA-Dimensionality%20Reduction-orange)](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 
----
+
 
 This repository contains code for spam email classification using KNN and Decision Tree algorithms. 
 
