@@ -42,5 +42,5 @@ Trained the two models on the preprocessed and PCA-reduced data: KNN (k-nearest 
 
 * F1 score: the harmonic mean of precision and recall
 
-It was found that both models performed well on the dataset, with KNN achieving an accuracy of 0.92 and Decision Tree achieving an accuracy of 0.90. 
+It was found that both models performed well on the dataset, with KNN achieving an accuracy score of 0.93 and Decision Tree achieving an accuracy of 0.90. 
 
