@@ -1,8 +1,6 @@
 # Spam Email Classification using KNN and Decision Tree
 
 
-[![KNN](https://img.shields.io/badge/KNN-Nearest%20Neighbors-yellow)](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
-[![Decision Tree](https://img.shields.io/badge/Decision%20Tree-Classifier-green)](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 
 
 
