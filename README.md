@@ -26,10 +26,6 @@ The dataset used in this project is the [UCI Machine learning repository - Spamb
 
 Since the email data had a high number of features, PCA (Principal Component Analysis) was used to reduce the dimensionality of the data. PCA is a technique that transforms the data into a lower-dimensional space while preserving the most important information. 
 
-### Cross-validation
-
-To evaluate the performance of the models, we used cross-validation. We used k-fold cross-validation, where the data is divided into k subsets and each subset is used as the validation set k times. The average performance across all k folds is then used as the final performance metric.
-
 ### Model Evaluation
 
 Trained the two models on the preprocessed and PCA-reduced data: KNN (k-nearest neighbors) and Decision Tree. Then evaluated the performance of each model using cross-validation and calculated the following metrics:
