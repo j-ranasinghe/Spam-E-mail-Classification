@@ -4,7 +4,7 @@
 
 
 
-This repository contains code for spam email classification using KNN and Decision Tree algorithms. 
+This repository contains code for spam email classification using KNN and Decision Tree algorithms. This was done as part of a coursework for the module CM 2604 - Machine Learning
 
 
 ## Python Versions
@@ -21,11 +21,11 @@ The dataset used in this project is the [UCI Machine learning repository - Spamb
 
 ### PCA
 
-Since the email data had a high number of features, PCA (Principal Component Analysis) was used to reduce the dimensionality of the data. PCA is a technique that transforms the data into a lower-dimensional space while preserving the most important information. 
+Since the email data had a high number of features, PCA (Principal Component Analysis) was used to reduce the dimensionality of the data. 
 
 ### Model Evaluation
 
-Trained the two models on the preprocessed and PCA-reduced data: KNN (k-nearest neighbors) and Decision Tree. Then evaluated the performance of each model using cross-validation and calculated the following metrics:
+Trained the two models on the preprocessed and PCA-reduced data. Then evaluated the performance of each model using  the following metrics:
 
 * Accuracy: the proportion of correctly classified emails
 
